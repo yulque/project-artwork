@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/static/css/main.6fc756b6.chunk.css",
+    "main.js": "/static/js/main.b96c21b7.chunk.js",
+    "main.js.map": "/static/js/main.b96c21b7.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.1a61f5b9.js",
+    "runtime-main.js.map": "/static/js/runtime-main.1a61f5b9.js.map",
+    "static/css/2.150d169a.chunk.css": "/static/css/2.150d169a.chunk.css",
+    "static/js/2.576e04c1.chunk.js": "/static/js/2.576e04c1.chunk.js",
+    "static/js/2.576e04c1.chunk.js.map": "/static/js/2.576e04c1.chunk.js.map",
+    "static/js/3.f6771b3a.chunk.js": "/static/js/3.f6771b3a.chunk.js",
+    "static/js/3.f6771b3a.chunk.js.map": "/static/js/3.f6771b3a.chunk.js.map",
+    "index.html": "/index.html",
+    "static/css/2.150d169a.chunk.css.map": "/static/css/2.150d169a.chunk.css.map",
+    "static/css/main.6fc756b6.chunk.css.map": "/static/css/main.6fc756b6.chunk.css.map",
+    "static/js/2.576e04c1.chunk.js.LICENSE.txt": "/static/js/2.576e04c1.chunk.js.LICENSE.txt",
+    "static/media/App.css": "/static/media/alexander-schimmeck-ineC_oi7NHs-unsplash.49e4bc13.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.1a61f5b9.js",
+    "static/css/2.150d169a.chunk.css",
+    "static/js/2.576e04c1.chunk.js",
+    "static/css/main.6fc756b6.chunk.css",
+    "static/js/main.b96c21b7.chunk.js"
+  ]
+}
