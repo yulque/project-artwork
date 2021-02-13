@@ -1,26 +1,26 @@
 {
   "files": {
-    "main.css": "/yulque/project-artwork/build/static/css/main.aab980c8.chunk.css",
-    "main.js": "/yulque/project-artwork/build/static/js/main.b96c21b7.chunk.js",
-    "main.js.map": "/yulque/project-artwork/build/static/js/main.b96c21b7.chunk.js.map",
-    "runtime-main.js": "/yulque/project-artwork/build/static/js/runtime-main.64a2b835.js",
-    "runtime-main.js.map": "/yulque/project-artwork/build/static/js/runtime-main.64a2b835.js.map",
-    "static/css/2.150d169a.chunk.css": "/yulque/project-artwork/build/static/css/2.150d169a.chunk.css",
-    "static/js/2.576e04c1.chunk.js": "/yulque/project-artwork/build/static/js/2.576e04c1.chunk.js",
-    "static/js/2.576e04c1.chunk.js.map": "/yulque/project-artwork/build/static/js/2.576e04c1.chunk.js.map",
-    "static/js/3.f6771b3a.chunk.js": "/yulque/project-artwork/build/static/js/3.f6771b3a.chunk.js",
-    "static/js/3.f6771b3a.chunk.js.map": "/yulque/project-artwork/build/static/js/3.f6771b3a.chunk.js.map",
-    "index.html": "/yulque/project-artwork/build/index.html",
-    "static/css/2.150d169a.chunk.css.map": "/yulque/project-artwork/build/static/css/2.150d169a.chunk.css.map",
-    "static/css/main.aab980c8.chunk.css.map": "/yulque/project-artwork/build/static/css/main.aab980c8.chunk.css.map",
-    "static/js/2.576e04c1.chunk.js.LICENSE.txt": "/yulque/project-artwork/build/static/js/2.576e04c1.chunk.js.LICENSE.txt",
-    "static/media/App.css": "/yulque/project-artwork/build/static/media/alexander-schimmeck-ineC_oi7NHs-unsplash.49e4bc13.jpg"
+    "main.css": "/project-artwork/build/static/css/main.6d9178f4.chunk.css",
+    "main.js": "/project-artwork/build/static/js/main.b96c21b7.chunk.js",
+    "main.js.map": "/project-artwork/build/static/js/main.b96c21b7.chunk.js.map",
+    "runtime-main.js": "/project-artwork/build/static/js/runtime-main.2f93f5ce.js",
+    "runtime-main.js.map": "/project-artwork/build/static/js/runtime-main.2f93f5ce.js.map",
+    "static/css/2.150d169a.chunk.css": "/project-artwork/build/static/css/2.150d169a.chunk.css",
+    "static/js/2.576e04c1.chunk.js": "/project-artwork/build/static/js/2.576e04c1.chunk.js",
+    "static/js/2.576e04c1.chunk.js.map": "/project-artwork/build/static/js/2.576e04c1.chunk.js.map",
+    "static/js/3.f6771b3a.chunk.js": "/project-artwork/build/static/js/3.f6771b3a.chunk.js",
+    "static/js/3.f6771b3a.chunk.js.map": "/project-artwork/build/static/js/3.f6771b3a.chunk.js.map",
+    "index.html": "/project-artwork/build/index.html",
+    "static/css/2.150d169a.chunk.css.map": "/project-artwork/build/static/css/2.150d169a.chunk.css.map",
+    "static/css/main.6d9178f4.chunk.css.map": "/project-artwork/build/static/css/main.6d9178f4.chunk.css.map",
+    "static/js/2.576e04c1.chunk.js.LICENSE.txt": "/project-artwork/build/static/js/2.576e04c1.chunk.js.LICENSE.txt",
+    "static/media/App.css": "/project-artwork/build/static/media/alexander-schimmeck-ineC_oi7NHs-unsplash.49e4bc13.jpg"
   },
   "entrypoints": [
-    "static/js/runtime-main.64a2b835.js",
+    "static/js/runtime-main.2f93f5ce.js",
     "static/css/2.150d169a.chunk.css",
     "static/js/2.576e04c1.chunk.js",
-    "static/css/main.aab980c8.chunk.css",
+    "static/css/main.6d9178f4.chunk.css",
     "static/js/main.b96c21b7.chunk.js"
   ]
 }
